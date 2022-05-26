@@ -1,0 +1,22 @@
+id: DFFB67FC9
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-11T09:50:31+00:00'
+last_modified: '2022-05-26T08:01:06.805454+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    3d96:
+      image_group_id: I1PD95857
+      title: རྡོ་རྗེ་རྣལ་འབྱོར་མ་ལ་བསྟོད་པ།
+      total_pages: 1544
+      order: 12
+      base_file: 3d96.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
